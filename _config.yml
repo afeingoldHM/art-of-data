@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Art of Data
 
 # Your name to show in the footer
-author: Some Person
+author: Avery Feingold
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -97,7 +97,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  vk: true
   reddit: false
 
 # How to display the link to your website in the footer
